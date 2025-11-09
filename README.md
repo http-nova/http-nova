@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+    <img src="https://i.ibb.co/mVWj51jd/Gemini-Generated-Image-imnjf7imnjf7imnj.png" alt="Banner" width="50%">
   </a>
 </p>
 
