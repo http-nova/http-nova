@@ -4,30 +4,28 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">hi, i'm <a href="#">nova.</a>!</h1>
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  <a href="#">
+    <img src="#" alt="yuna0x0">
   </a>
 </p>
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
-<p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creation～☆</p>
+<p align="center">i'm a web dev and content creator～☆</p>
 
 <p align="center">
-  <strong><a href="https://yuna0x0.com">Website</a></strong> |
-  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
-  <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
+  <strong><a href="#">Website</a></strong> |
+  <strong><a href="#">X</a></strong> |
+  <strong><a href="#">Discord</a></strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+  <a href="https://github.com/http-nova"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="nova's github stats"></a>
 </p>
 
 <!--
-**yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**http-nova/http-nova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
